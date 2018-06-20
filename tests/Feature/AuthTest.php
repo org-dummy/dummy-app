@@ -19,8 +19,7 @@ class AuthTest extends TestCase
      */
     public function testRequestStuff()
     {
-        $factory = new ShopifyFactory();
-        $factory->product->foo()->bar();
+        $this->assertEquals("Hello world", "Hello world");
 
     }
 }

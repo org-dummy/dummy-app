@@ -49,10 +49,5 @@
         "sort-packages": true,
         "optimize-autoloader": true
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "../shopify"
-        }
-    ]
+    "prefer-stable": true
 }
