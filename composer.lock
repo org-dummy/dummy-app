@@ -2634,10 +2634,10 @@
       },
       "description": "php error handling for cool kids",
       "dist": {
-        "reference": "e79cd403fb77fc8963a99ecc30e80ddd885b3311",
+        "reference": "a9f129b99df316f847584d482c89c14a9f796e2b",
         "shasum": "",
         "type": "zip",
-        "url": "https://api.github.com/repos/filp/whoops/zipball/e79cd403fb77fc8963a99ecc30e80ddd885b3311"
+        "url": "https://api.github.com/repos/filp/whoops/zipball/a9f129b99df316f847584d482c89c14a9f796e2b"
       },
       "extra": {
         "branch-alias": {
@@ -2668,7 +2668,7 @@
         "symfony/var-dumper": "^2.6 || ^3.0 || ^4.0"
       },
       "source": {
-        "reference": "e79cd403fb77fc8963a99ecc30e80ddd885b3311",
+        "reference": "a9f129b99df316f847584d482c89c14a9f796e2b",
         "type": "git",
         "url": "https://github.com/filp/whoops.git"
       },
@@ -2676,9 +2676,9 @@
         "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
         "whoops/soap": "Formats errors as SOAP responses"
       },
-      "time": "2018-06-30T13:14:06+00:00",
+      "time": "2018-10-20T09:00:00+00:00",
       "type": "library",
-      "version": "2.2.1"
+      "version": "2.3.0"
     },
     {
       "authors": [
